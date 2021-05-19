@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177101061923",
+    "project_id": "shopmate-e2a95",
+    "storage_bucket": "shopmate-e2a95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177101061923:android:d666b59f79526f15245696",
+        "android_client_info": {
+          "package_name": "com.example.shopmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177101061923-d2olkn6utqkteonoetmf8t3gomedvlvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyc26OmAd7RN8tJLR5NlDQeiWjHklLZsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177101061923-d2olkn6utqkteonoetmf8t3gomedvlvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
